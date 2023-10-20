@@ -9,4 +9,6 @@ You can change which video you use by changing the url in [this cell](#Download-
 
 - Set the hardware accelerator setting of Colaboratory to **GPU** and execute it.
 (Runtime -> Change Runtime Type -> GPU)
+
+# Result
 [![Object Tracking Demo](https://github.com/derickcjohn/Object-Tracking/blob/main/demo%20result.mp4 autoplay width=300 height=200)](https://github.com/derickcjohn/Object-Tracking/blob/main/demo%20result.mp4)
