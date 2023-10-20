@@ -9,3 +9,4 @@ You can change which video you use by changing the url in [this cell](#Download-
 
 - Set the hardware accelerator setting of Colaboratory to **GPU** and execute it.
 (Runtime -> Change Runtime Type -> GPU)
+[![Demo result](https://github.com/your-username/your-repository/blob/main/path/to/video.mp4)](https://github.com/your-username/your-repository/blob/main/path/to/video.mp4)
