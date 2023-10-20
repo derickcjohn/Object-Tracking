@@ -11,4 +11,6 @@ You can change which video you use by changing the url in [this cell](#Download-
 (Runtime -> Change Runtime Type -> GPU)
 
 # Result
-[![Object Tracking Demo](https://github.com/derickcjohn/Object-Tracking/blob/main/demo%20result.mp4 autoplay width=300 height=200)](https://github.com/derickcjohn/Object-Tracking/blob/main/demo%20result.mp4)
+
+https://github.com/derickcjohn/Object-Tracking/assets/96041141/4c7dacc4-d010-419c-8040-16324d02563e
+
